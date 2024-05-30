@@ -96,10 +96,8 @@ h2 {
     border-image: 10%;
     min-width: 0%;
 }
+
 @media screen (max-width: 960px) {
-    .mid-text{
-        order: 1;
-    
-    }
-      
+.paragraph 
+    float: right !important;
 }
